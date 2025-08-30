@@ -1,6 +1,7 @@
 # VIGENERE-CIPHER
 ## EX. NO: 4
- 
+ ### Name: MADHUVATHANI V
+### Reg.no: 212223040107
 
 ## IMPLEMETATION OF VIGENERE CIPHER
  
@@ -109,7 +110,8 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="577" height="292" alt="Screenshot 2025-08-29 091816" src="https://github.com/user-attachments/assets/d2e11c35-a3ad-4e7f-9611-81cc2a1ff2f0" />
+<img width="1348" height="909" alt="image" src="https://github.com/user-attachments/assets/15fb516c-f413-4cbb-87bd-6c3df4851e0b" />
+
 
 
 
